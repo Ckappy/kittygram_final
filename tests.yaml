@@ -1,0 +1,4 @@
+repo_owner: Ckappy
+kittygram_domain: http://localhost  # или ваш домен, если будете деплоить
+taski_domain: https://ваш_домен_таски
+dockerhub_username: ваш_логин_на_докерхабе
